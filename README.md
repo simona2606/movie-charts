@@ -7,3 +7,6 @@
 I made this project to learn how to make API calls through the ***Alamofire*** framework, imported through **CocoaPods**. 
 
 In addition, to make the project more interesting, I also used the ***Charts*** framework through which you can make nice and useful charts in order to have a statistical data.
+
+The project is also structured following the MVVM design pattern.
+
