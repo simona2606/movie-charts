@@ -10,7 +10,8 @@ In addition, to make the project more interesting, I also used the ***Charts*** 
 
 The project is also structured following the MVVM design pattern.
 
-
-  [<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/ListMovies.png" />]
-  [<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/DetailMovie.png" />]
-  [<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/Charts.png" />]
+<p align="center">
+[<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/ListMovies.png" />]
+[<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/DetailMovie.png" />]
+[<img width="250px" src="https://github.com/simona2606/movie-charts/blob/main/assets/Charts.png" />]
+</p>
